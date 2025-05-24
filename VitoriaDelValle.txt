@@ -1,3 +1,6 @@
 Esse é a primeira versão do arquivo 
 Não fiz uma brach ainda, blz? 
+Fiz uma branch agora ela se chama novaBranch
+E é muito legal 
+uauau
 
